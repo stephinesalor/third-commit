@@ -1,4 +1,4 @@
-const students2 = ["", "", ""];
+const students2 = ["salor", "diaz", "rontos"];
 const scores2 = [85/100, 95/100, 87100];
 
 const greet2 = name => `Hello, ${name}!`;
